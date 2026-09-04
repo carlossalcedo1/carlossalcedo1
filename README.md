@@ -24,25 +24,3 @@ Co-built with [RJ Cooke](https://github.com/)
 **Hispanic Student Association** — rebuilding the club site in React with an agile team. Redesigning the interface, tearing out hardcoded content, and closing bugs the legacy site had carried for years. Ran user-experience surveys to decide what to fix first.
  
 **Brown & Brown (Summer 2026)** — built three AI virtual agents in Copilot Studio wired into ServiceNow, including an image-recognition feature that reads error screenshots and auto-fills incident reports, cutting ticket creation time by 53%. Also shipped a tool that analyzes 1,500+ historical incidents every three days to keep the support knowledge base current.
- 
----
- 
-## Tools
- 
-**Languages** — Python · C++ · Java · JavaScript · TypeScript · Kotlin · SQL
- 
-**Backend** — FastAPI · SQLAlchemy · Alembic · PostgreSQL · MongoDB · REST APIs · JWT
- 
-**Frontend** — React · Vite · Tailwind · HTML/CSS
- 
-**Infra** — Docker · Docker Compose · Caddy · Cloudflare Tunnel · Ubuntu · Git
- 
-**AI** — Anthropic API · LLM-as-judge evaluation · prompt engineering · Copilot Studio
- 
----
- 
-## Elsewhere
- 
-- **Site** — [carlostechsolutions.com](https://www.carlostechsolutions.com)
-- **LinkedIn** — [carloscs1](https://www.linkedin.com/in/carloscs1)
-- **Email** — cmsal06@icloud.com
