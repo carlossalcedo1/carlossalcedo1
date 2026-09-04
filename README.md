@@ -2,7 +2,7 @@
 
 **CS @ University of Florida** · Business Administration minor
 
-## What I'm building
+## What I'm currently building
 
 ### [PromptWorks](https://github.com/carlossalcedo1/PromptWorks) — The two-part prompt-engineering platform
 
@@ -14,8 +14,6 @@ Some Key Highlights:
 - Passwordless email 2FA (hashed 6-digit login codes, 5 minute expiry, and 5 attempt lockout)
 - Self-hosted infrastructure on Intel NUC via Docker Compose, Caddy, Cloudflare Tunnel, and PostgreSQL (no inbound ports, yay security)
 - LLM-as-judge grading service returning strict JSON across 6 rubric dimensions
-
-Co-built with [RJ Cooke](https://github.com/)
 
 ## Other work
  
